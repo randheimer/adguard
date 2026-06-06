@@ -1,4 +1,5 @@
 ! Title: IP Lookup Services (verified)
+! Description: Blocks external IP detection services
 ! Syntax: AdGuard Home/DNS
 
 https://ifconfig.co
